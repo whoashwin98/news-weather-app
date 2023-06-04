@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">NewsApp - A News and Weather App</h3>
+  <h1 align="center">NewsApp - A News and Weather App</h1>
   <p align="center">
     Provides news snippets: both general and category wise, as well as weather report for a given city. 
   </p>
